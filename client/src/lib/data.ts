@@ -10,7 +10,7 @@ export const aboutFeatures = [
   {
     icon: "fas fa-users",
     title: "Global Community",
-    description: "Connect with over 200 delegates from 10+ countries, building lifelong networks and friendships",
+    description: "Connect with over 200 delegates12 from 10+ countries, building lifelong networks and friendships",
     color: "blue"
   },
   {
