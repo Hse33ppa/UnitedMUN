@@ -15,7 +15,7 @@ export default function About() {
             </span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Since our establishment in 2025, UnitedMUN Headquarters has been dedicated to cultivating diplomatic acumen and advancing global citizenship among students worldwide. Through immersive Model United Nations conferences, Debate houses and tailored educational initiatives the organization equips young leaders with the skills to address complex international challenges. Committed to fostering collaboration and critical thinking, UnitedMUN continues to inspire a generation of informed, empathetic changemakers poised to shape a more interconnected world.
+            Since our establishment in 205, UnitedMUN Headquarters has been dedicated to cultivating diplomatic acumen and advancing global citizenship among students worldwide. Through immersive Model United Nations conferences, Debate houses and tailored educational initiatives the organization equips young leaders with the skills to address complex international challenges. Committed to fostering collaboration and critical thinking, UnitedMUN continues to inspire a generation of informed, empathetic changemakers poised to shape a more interconnected world.
           </p>
         </div>
 
