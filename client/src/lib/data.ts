@@ -2,6 +2,8 @@ export const navigationLinks = [
   { href: "/", label: "Home" },
   { href: "/team", label: "Meet the Team" },
   { href: "/agendas", label: "Agendas" },
+  { href: "/sponsors", label: "Our Sponsors" },
+  { href: "/portfolio", label: "Our Portfolio" },
 ];
 
 export const aboutFeatures = [
